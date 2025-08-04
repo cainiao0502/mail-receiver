@@ -1,0 +1,13 @@
+{
+  "name": "mail-receiver",
+  "version": "1.0.0",
+  "description": "邮箱接收器 - @nailinai.site 域名邮件系统",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static files ready'",
+    "start": "serve ."
+  },
+  "keywords": ["mail", "receiver", "nailinai.site"],
+  "author": "cainiao0502",
+  "license": "MIT"
+}
